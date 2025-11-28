@@ -6,3 +6,4 @@ Commandline: apt install memtester
 Commandline: apt install zbar-tools
 Commandline: apt install pipenv
 Commandline: apt install antigravity
+Commandline: apt install zsteg
